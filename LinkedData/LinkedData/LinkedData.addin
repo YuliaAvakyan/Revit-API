@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command LinkedData</Text>
+    <Description>Some description for LinkedData</Description>
+    <Assembly>LinkedData.dll</Assembly>
+    <FullClassName>LinkedData.Command</FullClassName>
+    <ClientId>2594330b-c974-41cf-9801-5d1ba52b6221</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application LinkedData</Name>
+    <Assembly>LinkedData.dll</Assembly>
+    <FullClassName>LinkedData.App</FullClassName>
+    <ClientId>2fb1ab53-bd8b-4367-9176-8cbaf505ea39</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
