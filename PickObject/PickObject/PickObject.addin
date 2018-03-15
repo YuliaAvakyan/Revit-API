@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command PickObject</Text>
+    <Description>Some description for PickObject</Description>
+    <Assembly>PickObject.dll</Assembly>
+    <FullClassName>PickObject.Command</FullClassName>
+    <ClientId>e41fa139-5b9f-4175-a86f-487bd48bcb06</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application PickObject</Name>
+    <Assembly>PickObject.dll</Assembly>
+    <FullClassName>PickObject.App</FullClassName>
+    <ClientId>b851e3b5-2c8a-4294-a0b5-3b61aeb1a752</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

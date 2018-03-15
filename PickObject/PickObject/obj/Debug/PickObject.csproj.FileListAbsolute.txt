@@ -1,0 +1,5 @@
+D:\trimetari\Revit\PickObject\PickObject\obj\Debug\PickObject.csprojResolveAssemblyReference.cache
+D:\trimetari\Revit\PickObject\PickObject\bin\Debug\PickObject.dll
+D:\trimetari\Revit\PickObject\PickObject\bin\Debug\PickObject.pdb
+D:\trimetari\Revit\PickObject\PickObject\obj\Debug\PickObject.dll
+D:\trimetari\Revit\PickObject\PickObject\obj\Debug\PickObject.pdb
