@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command Dimens3D</Text>
+    <Description>Some description for Dimens3D</Description>
+    <Assembly>Dimens3D.dll</Assembly>
+    <FullClassName>Dimens3D.Command</FullClassName>
+    <ClientId>580b277c-69c3-499e-b0a6-328debebad42</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application Dimens3D</Name>
+    <Assembly>Dimens3D.dll</Assembly>
+    <FullClassName>Dimens3D.App</FullClassName>
+    <ClientId>e372560d-4553-4be8-8935-d365526b5e97</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

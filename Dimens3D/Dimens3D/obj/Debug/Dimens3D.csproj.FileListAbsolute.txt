@@ -1,0 +1,5 @@
+D:\trimetari\Revit\Dimens3D\Dimens3D\bin\Debug\Dimens3D.dll
+D:\trimetari\Revit\Dimens3D\Dimens3D\bin\Debug\Dimens3D.pdb
+D:\trimetari\Revit\Dimens3D\Dimens3D\obj\Debug\Dimens3D.csprojResolveAssemblyReference.cache
+D:\trimetari\Revit\Dimens3D\Dimens3D\obj\Debug\Dimens3D.dll
+D:\trimetari\Revit\Dimens3D\Dimens3D\obj\Debug\Dimens3D.pdb
