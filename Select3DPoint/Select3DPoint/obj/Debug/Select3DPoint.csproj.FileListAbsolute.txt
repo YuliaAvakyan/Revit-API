@@ -1,0 +1,5 @@
+D:\trimetari\Revit\Select3DPoint\Select3DPoint\bin\Debug\Select3DPoint.dll
+D:\trimetari\Revit\Select3DPoint\Select3DPoint\bin\Debug\Select3DPoint.pdb
+D:\trimetari\Revit\Select3DPoint\Select3DPoint\obj\Debug\Select3DPoint.csprojResolveAssemblyReference.cache
+D:\trimetari\Revit\Select3DPoint\Select3DPoint\obj\Debug\Select3DPoint.dll
+D:\trimetari\Revit\Select3DPoint\Select3DPoint\obj\Debug\Select3DPoint.pdb

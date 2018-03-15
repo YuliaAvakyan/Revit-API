@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command Select3DPoint</Text>
+    <Description>Some description for Select3DPoint</Description>
+    <Assembly>Select3DPoint.dll</Assembly>
+    <FullClassName>Select3DPoint.Command</FullClassName>
+    <ClientId>61cbd016-e3c6-4323-9e7a-fe9ad7f7dd0d</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application Select3DPoint</Name>
+    <Assembly>Select3DPoint.dll</Assembly>
+    <FullClassName>Select3DPoint.App</FullClassName>
+    <ClientId>4726ccdf-41d3-421e-b407-2b6e725c2c8d</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
